@@ -1,1 +1,12 @@
-{}
+{
+  "loopbackGettingStartedDb": {
+    "host": "localhost",
+    "port": 5432,
+    "url": "",
+    "database": "loopback-getting-started",
+    "password": "postgres",
+    "name": "loopbackGettingStartedDb",
+    "user": "postgres",
+    "connector": "postgresql"
+  }
+}
